@@ -31,5 +31,6 @@ This dashboard provides a visual summary of sports sales data, including profits
 - Data is visualized using bar, line, and pie charts for clarity.
 - The world map provides a geographic overview of order distribution.
 
-git add IMG-20250718-WA0018.jpeg
+git add /storage/emulated/0/Pictures/WhatsApp/IMG-20250718-WA0018.jpg
+
 git commit -m "Add dashboard image"
