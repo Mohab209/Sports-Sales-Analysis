@@ -30,3 +30,5 @@ This dashboard visualizes sports sales data, including profits, order quantities
 -**Power Query**: Employed for data cleaning, transformation, and preparation.
 
 -**Pivot Table**: Utilized for summarizing and analyzing data to create the dashboard visuals.
+
+![Sٍales Dashboard Preview](image.png)
